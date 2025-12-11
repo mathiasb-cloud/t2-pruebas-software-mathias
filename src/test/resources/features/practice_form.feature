@@ -8,7 +8,7 @@ Feature: Practice Form - demoqa.com
     When ingreso el nombre "Luis" y el apellido " Lopez"
     And escribo el correo "luis.lopez@example.com"
     And selecciono el género "Male"
-    And escribo el número de celular "923412210"
+    And escribo el número de celular "9234567890"
     And selecciono el hobby "Sports"
     And escribo la dirección actual "Av. Cahuide 123"
     And envío el formulario
@@ -20,7 +20,7 @@ Feature: Practice Form - demoqa.com
     When ingreso el nombre "Juana" y el apellido "Cuba"
     And escribo el correo "juana.cuba@example.com"
     And selecciono el género "Female"
-    And escribo el número de celular "9345345234"
+    And escribo el número de celular "9342345678"
     And selecciono el hobby "Reading"
     And escribo la dirección actual "Jr. Los Laureles 496"
     And envío el formulario

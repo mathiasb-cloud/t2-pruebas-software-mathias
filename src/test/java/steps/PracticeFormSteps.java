@@ -61,7 +61,7 @@ public class PracticeFormSteps {
 
     @Cuando("no selecciono ningún género")
     public void noGenero() {
-        // No acción, solo es para cumplir el step
+
     }
 
     @Cuando("escribo el número de celular {string}")
